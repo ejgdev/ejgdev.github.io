@@ -3,7 +3,7 @@ title: EJGDEV
 subtitle: .Github.io
 email: ejg.dev@gmail.com
 description: I'm a Front-End Engineer developing web applications.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ejgdev.github.io/
 author:
 street_address:
